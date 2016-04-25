@@ -13,6 +13,7 @@ R is a dialect of the S language which was developed at Bell Labs.
 ```
 Incorrect
 0 / 1 points
+```
 2. 
 The definition of free software consists of four freedoms (freedoms 0 through 3). Which of the following is NOT one of the freedoms that are part of the definition? Select all that apply.
 
